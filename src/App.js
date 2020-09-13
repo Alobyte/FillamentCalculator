@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
      <Header />
-      <BasePlate />
+    <BasePlate />
     </div>
   );
 }
